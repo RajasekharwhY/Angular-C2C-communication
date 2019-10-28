@@ -1,4 +1,4 @@
-# test112-bpn8tw
+# Demo - Comunication between two componenets via Service.
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/test112-bpn8tw)
 
